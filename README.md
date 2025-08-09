@@ -1,2 +1,3 @@
-# engenharia-software
-Análise e desenvolvimento de sistemas Aula1
+Aula1, engenharia de software, olá mundo!
+
+Teste de git e github
