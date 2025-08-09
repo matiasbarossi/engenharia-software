@@ -3,4 +3,4 @@ Aula 1, engenharia de software, ol√° mundo!
 
 Teste de git e github
 
-Ol· mundo em Python e em C99
+Ol· mundo em Python, C99 e Lua
